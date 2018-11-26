@@ -1,0 +1,41 @@
+ body {
+     background-color: bisque;
+     text-align: center;
+     font-family: "Nunito", sans-serif;
+     color: #384047;
+     margin: 0px;
+ }
+
+ h1 {
+     font-size: 3em;
+
+ }
+
+ #header {
+     border: 0.2em solid rgb(77, 79, 82);
+     background-color: rgb(203, 216, 15);
+     margin: 0px;
+ }
+
+ div {
+     border: 0.2em solid rgb(203, 206, 211);
+     background-color: rgb(242, 243, 234);
+     margin: 0.2em;
+
+ }
+
+ div.question {
+     text-align: center;
+     font-weight: bold;
+     border: 0em;
+
+ }
+
+ footer {
+     position: fixed;
+     width: 100%;
+     bottom: 0px;
+
+     background-color: rgb(203, 216, 15);
+     margin: 0px;
+ }
