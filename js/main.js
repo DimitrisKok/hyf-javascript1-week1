@@ -28,8 +28,8 @@ console.log(x); //3.3
 document.getElementById("initialize2").innerHTML = (x);
 x = 5; //3.4
 console.log("the value of my variable \"x\" will be: " + typeof (x)); //3.5
-document.getElementById("initialize2").innerHTML = (x)+","+
-("\n the value of my variable \"x\" will be: " + typeof (x));
+document.getElementById("initialize2").innerHTML = (x) + "," +
+  ("\n the value of my variable \"x\" will be: " + typeof (x));
 //3.6 Add a console.log statement that logs the value of x. Steps to be taken:
 console.log(x); //3.6
 
